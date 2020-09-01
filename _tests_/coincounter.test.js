@@ -24,7 +24,7 @@ test('new tests', () => {
   function neww() {
     return function(Quarters) {
       return `Quaters: ${Quarters / 2}`
-      
+
     return function(Dimes) {
       return `Dimes: ${Quarters}`
     }
